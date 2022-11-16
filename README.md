@@ -8,17 +8,18 @@
 
 ## Usage
 
-Browse folders and images in owncloud/nextcloud instances and open them using double-click or <ENTER>. You can also navigate through the list using arrow up/down keys.
+Browse folders and images in owncloud/nextcloud servers and open them using just a double-click! 
 
 Login to an owncloud or nextcloud server by clicking the menu `Tools > Utilities > Browse owncloud / nextcloud storage`
 
 ![](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/login.png)
 
-You can then navigate through folders by double-clicking `folder/` items in the list. You can also open images by double-clicking them. Alternatively, use the arrow-up and arrow-down key to navigate the list and hit ENTER to open an image or folder.
+You can then navigate through folders by double-clicking `folder/` items in the list.
+You can also open images by double-clicking them. Alternatively, use the arrow-up and arrow-down key to navigate the list and hit ENTER to open an image or folder.
 
 ![](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/browse.png)
 
-Using the button `Save / upload current layer`, you can also store an image in the cloud. Note: Currently, only single selected layers can be saved.
+Store images in your cloud storage using the button `Save / upload current layer`. Note: Currently, only single selected layers can be saved.
 
 ![](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/upload.png)
 
