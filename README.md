@@ -23,6 +23,10 @@ Store images in your cloud storage using the button `Save / upload current layer
 
 ![](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/upload.png)
 
+[Demo](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/demo.mp4)
+
+![](https://github.com/haesleinhuepf/napari-owncloud/raw/main/docs/demo.gif)
+
 ## Installation
 
 You can install `napari-owncloud` via [pip]:
