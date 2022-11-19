@@ -132,6 +132,12 @@ class OwncloudBrowser(QWidget):
                 warnings.warn("Login failed")
                 self._client = None
 
+            # remove the password after logging in or failing to
+            self._password.setText("")
+
+            if self._client is None:
+                return
+
             self._current_dir.setText("/")
             self._directory_changed()
 
