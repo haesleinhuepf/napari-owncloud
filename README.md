@@ -8,7 +8,7 @@
 
 ## Usage
 
-Browse folders and images in owncloud/nextcloud servers and open them using just a double-click! 
+Browse folders and images in [owncloud](https://owncloud.com/) / [nextcloud](https://nextcloud.com/) servers and open them using just a double-click! 
 
 Login to an owncloud or nextcloud server by clicking the menu `Tools > Utilities > Browse owncloud / nextcloud storage`
 
