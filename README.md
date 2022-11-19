@@ -5,6 +5,9 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-owncloud.svg?color=green)](https://python.org)
 [![tests](https://github.com/haesleinhuepf/napari-owncloud/workflows/tests/badge.svg)](https://github.com/haesleinhuepf/napari-owncloud/actions)
 [![codecov](https://codecov.io/gh/haesleinhuepf/napari-owncloud/branch/master/graph/badge.svg)](https://codecov.io/gh/haesleinhuepf/napari-owncloud)
+[![Development Status](https://img.shields.io/pypi/status/napari-owncloud.svg)](https://en.wikipedia.org/wiki/Software_release_life_cycle#Alpha)
+[![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-owncloud)](https://napari-hub.org/plugins/napari-owncloud)
+[![DOI](https://zenodo.org/badge/566758728.svg)](https://zenodo.org/badge/latestdoi/566758728)
 
 ## Usage
 
